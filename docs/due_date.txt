@@ -1,0 +1,2 @@
+1. billing date 30 days after the user’s account is created
+2. due date 15 days after the billing date

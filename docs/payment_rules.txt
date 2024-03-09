@@ -1,0 +1,5 @@
+1. If payment of past bills is not done on time then it has to be completed first while paying it next time before
+ paying the current month’s bill.
+2. Interest begins accruing from the day following the loan disbursal.
+3. All EMIs need to be equal except the last EMI which can be less than the others.
+4. The last EMI covers all outstanding dues.
