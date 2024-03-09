@@ -168,11 +168,6 @@ class MakePaymentView(APIView):
 
 class StatementView(APIView):
     def handle_exception(self, exc):
-        # if isinstance(exc, KeyError):
-        #     return Response(
-        #         data='Invalid data: ' + exc.__str__(),
-        #         status=status.HTTP_400_BAD_REQUEST
-        #         )
         if isinstance(exc, ObjectDoesNotExist):
             return Response(
                 data='Not Found: ' + exc.__str__(),
