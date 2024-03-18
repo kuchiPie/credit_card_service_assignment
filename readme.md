@@ -3,6 +3,8 @@
 
 Credit Card Service to register user, apply loan, make payments, get statement and cron job for billing
 
+# [Medium Article](https://medium.com/django-unleashed/assignment-for-backend-sde-intern-b0eb0ec72246) explaining the code:
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
